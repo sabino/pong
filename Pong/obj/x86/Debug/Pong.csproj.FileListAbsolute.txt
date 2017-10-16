@@ -1,0 +1,82 @@
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/Pong/obj/x86/Debug/Pong.csprojResolveAssemblyReference.cache
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/Pong/obj/x86/Debug/Pong.csproj.CoreCompileInputs.cache
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/Pong/bin/Debug/x64/libopenal.so.1
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/Pong/bin/Debug/x64/soft_oal.dll
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/Pong/bin/Debug/x64/libSDL2-2.0.so.0
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/Pong/bin/Debug/x64/SDL2.dll
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/Pong/bin/Debug/x86/libopenal.so.1
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/Pong/bin/Debug/x86/soft_oal.dll
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/Pong/bin/Debug/x86/libSDL2-2.0.so.0
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/Pong/bin/Debug/x86/SDL2.dll
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/Pong/bin/Debug/libopenal.1.dylib
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/Pong/bin/Debug/libSDL2-2.0.0.dylib
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/Pong/bin/Debug/MonoGame.Framework.dll.config
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/Pong/bin/Debug/Content/Ball.xnb
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/Pong/bin/Debug/Content/PongPaddle.xnb
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/Pong/bin/Debug/Pong.exe
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/Pong/bin/Debug/Pong.pdb
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/Pong/bin/Debug/EmptyKeys.UserInterface.Core.dll
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/Pong/bin/Debug/EmptyKeys.UserInterface.Debug.dll
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/Pong/bin/Debug/EmptyKeys.UserInterface.dll
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/Pong/bin/Debug/EmptyKeys.UserInterface.MonoGame.dll
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/Pong/bin/Debug/MonoGame.Framework.dll
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/Pong/bin/Debug/EmptyKeys.UserInterface.xml
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/Pong/bin/Debug/EmptyKeys.UserInterface.Core.xml
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/Pong/bin/Debug/EmptyKeys.UserInterface.Debug.pdb
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/Pong/bin/Debug/MonoGame.Framework.xml
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/Pong/obj/x86/Debug/Pong.exe
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/Pong/obj/x86/Debug/Pong.pdb
+Z:\Google Drive\DOCÊNCIA\Sociesc\2017\2017-2\2017-2 - TJG - Lógica de programação\Codigos\BattleCross\BattleCross\Pong\bin\Debug\x64\libopenal.so.1
+Z:\Google Drive\DOCÊNCIA\Sociesc\2017\2017-2\2017-2 - TJG - Lógica de programação\Codigos\BattleCross\BattleCross\Pong\bin\Debug\x64\soft_oal.dll
+Z:\Google Drive\DOCÊNCIA\Sociesc\2017\2017-2\2017-2 - TJG - Lógica de programação\Codigos\BattleCross\BattleCross\Pong\bin\Debug\x64\libSDL2-2.0.so.0
+Z:\Google Drive\DOCÊNCIA\Sociesc\2017\2017-2\2017-2 - TJG - Lógica de programação\Codigos\BattleCross\BattleCross\Pong\bin\Debug\x64\SDL2.dll
+Z:\Google Drive\DOCÊNCIA\Sociesc\2017\2017-2\2017-2 - TJG - Lógica de programação\Codigos\BattleCross\BattleCross\Pong\bin\Debug\x86\libopenal.so.1
+Z:\Google Drive\DOCÊNCIA\Sociesc\2017\2017-2\2017-2 - TJG - Lógica de programação\Codigos\BattleCross\BattleCross\Pong\bin\Debug\x86\soft_oal.dll
+Z:\Google Drive\DOCÊNCIA\Sociesc\2017\2017-2\2017-2 - TJG - Lógica de programação\Codigos\BattleCross\BattleCross\Pong\bin\Debug\x86\libSDL2-2.0.so.0
+Z:\Google Drive\DOCÊNCIA\Sociesc\2017\2017-2\2017-2 - TJG - Lógica de programação\Codigos\BattleCross\BattleCross\Pong\bin\Debug\x86\SDL2.dll
+Z:\Google Drive\DOCÊNCIA\Sociesc\2017\2017-2\2017-2 - TJG - Lógica de programação\Codigos\BattleCross\BattleCross\Pong\bin\Debug\libopenal.1.dylib
+Z:\Google Drive\DOCÊNCIA\Sociesc\2017\2017-2\2017-2 - TJG - Lógica de programação\Codigos\BattleCross\BattleCross\Pong\bin\Debug\libSDL2-2.0.0.dylib
+Z:\Google Drive\DOCÊNCIA\Sociesc\2017\2017-2\2017-2 - TJG - Lógica de programação\Codigos\BattleCross\BattleCross\Pong\bin\Debug\MonoGame.Framework.dll.config
+Z:\Google Drive\DOCÊNCIA\Sociesc\2017\2017-2\2017-2 - TJG - Lógica de programação\Codigos\BattleCross\BattleCross\Pong\bin\Debug\Content\Ball.xnb
+Z:\Google Drive\DOCÊNCIA\Sociesc\2017\2017-2\2017-2 - TJG - Lógica de programação\Codigos\BattleCross\BattleCross\Pong\bin\Debug\Content\PongPaddle.xnb
+Z:\Google Drive\DOCÊNCIA\Sociesc\2017\2017-2\2017-2 - TJG - Lógica de programação\Codigos\BattleCross\BattleCross\Pong\bin\Debug\Content\font.xnb
+Z:\Google Drive\DOCÊNCIA\Sociesc\2017\2017-2\2017-2 - TJG - Lógica de programação\Codigos\BattleCross\BattleCross\Pong\bin\Debug\Pong.exe
+Z:\Google Drive\DOCÊNCIA\Sociesc\2017\2017-2\2017-2 - TJG - Lógica de programação\Codigos\BattleCross\BattleCross\Pong\bin\Debug\Pong.pdb
+Z:\Google Drive\DOCÊNCIA\Sociesc\2017\2017-2\2017-2 - TJG - Lógica de programação\Codigos\BattleCross\BattleCross\Pong\bin\Debug\EmptyKeys.UserInterface.Core.dll
+Z:\Google Drive\DOCÊNCIA\Sociesc\2017\2017-2\2017-2 - TJG - Lógica de programação\Codigos\BattleCross\BattleCross\Pong\bin\Debug\EmptyKeys.UserInterface.dll
+Z:\Google Drive\DOCÊNCIA\Sociesc\2017\2017-2\2017-2 - TJG - Lógica de programação\Codigos\BattleCross\BattleCross\Pong\bin\Debug\MonoGame.Framework.dll
+Z:\Google Drive\DOCÊNCIA\Sociesc\2017\2017-2\2017-2 - TJG - Lógica de programação\Codigos\BattleCross\BattleCross\Pong\bin\Debug\EmptyKeys.UserInterface.xml
+Z:\Google Drive\DOCÊNCIA\Sociesc\2017\2017-2\2017-2 - TJG - Lógica de programação\Codigos\BattleCross\BattleCross\Pong\bin\Debug\EmptyKeys.UserInterface.Core.xml
+Z:\Google Drive\DOCÊNCIA\Sociesc\2017\2017-2\2017-2 - TJG - Lógica de programação\Codigos\BattleCross\BattleCross\Pong\bin\Debug\EmptyKeys.UserInterface.Debug.pdb
+Z:\Google Drive\DOCÊNCIA\Sociesc\2017\2017-2\2017-2 - TJG - Lógica de programação\Codigos\BattleCross\BattleCross\Pong\obj\x86\Debug\Pong.csprojResolveAssemblyReference.cache
+Z:\Google Drive\DOCÊNCIA\Sociesc\2017\2017-2\2017-2 - TJG - Lógica de programação\Codigos\BattleCross\BattleCross\Pong\obj\x86\Debug\Pong.csproj.CoreCompileInputs.cache
+Z:\Google Drive\DOCÊNCIA\Sociesc\2017\2017-2\2017-2 - TJG - Lógica de programação\Codigos\BattleCross\BattleCross\Pong\obj\x86\Debug\Pong.exe
+Z:\Google Drive\DOCÊNCIA\Sociesc\2017\2017-2\2017-2 - TJG - Lógica de programação\Codigos\BattleCross\BattleCross\Pong\obj\x86\Debug\Pong.pdb
+C:\Users\fgsab\Downloads\Pong_30_10_17\Pong\Pong\bin\Debug\x64\libopenal.so.1
+C:\Users\fgsab\Downloads\Pong_30_10_17\Pong\Pong\bin\Debug\x64\soft_oal.dll
+C:\Users\fgsab\Downloads\Pong_30_10_17\Pong\Pong\bin\Debug\x64\libSDL2-2.0.so.0
+C:\Users\fgsab\Downloads\Pong_30_10_17\Pong\Pong\bin\Debug\x64\SDL2.dll
+C:\Users\fgsab\Downloads\Pong_30_10_17\Pong\Pong\bin\Debug\x86\libopenal.so.1
+C:\Users\fgsab\Downloads\Pong_30_10_17\Pong\Pong\bin\Debug\x86\soft_oal.dll
+C:\Users\fgsab\Downloads\Pong_30_10_17\Pong\Pong\bin\Debug\x86\libSDL2-2.0.so.0
+C:\Users\fgsab\Downloads\Pong_30_10_17\Pong\Pong\bin\Debug\x86\SDL2.dll
+C:\Users\fgsab\Downloads\Pong_30_10_17\Pong\Pong\bin\Debug\libopenal.1.dylib
+C:\Users\fgsab\Downloads\Pong_30_10_17\Pong\Pong\bin\Debug\libSDL2-2.0.0.dylib
+C:\Users\fgsab\Downloads\Pong_30_10_17\Pong\Pong\bin\Debug\MonoGame.Framework.dll.config
+C:\Users\fgsab\Downloads\Pong_30_10_17\Pong\Pong\bin\Debug\Content\Ball.xnb
+C:\Users\fgsab\Downloads\Pong_30_10_17\Pong\Pong\bin\Debug\Content\font.xnb
+C:\Users\fgsab\Downloads\Pong_30_10_17\Pong\Pong\bin\Debug\Content\PongPaddle.xnb
+C:\Users\fgsab\Downloads\Pong_30_10_17\Pong\Pong\bin\Debug\Pong.exe
+C:\Users\fgsab\Downloads\Pong_30_10_17\Pong\Pong\bin\Debug\Pong.pdb
+C:\Users\fgsab\Downloads\Pong_30_10_17\Pong\Pong\bin\Debug\EmptyKeys.UserInterface.Core.dll
+C:\Users\fgsab\Downloads\Pong_30_10_17\Pong\Pong\bin\Debug\EmptyKeys.UserInterface.Debug.dll
+C:\Users\fgsab\Downloads\Pong_30_10_17\Pong\Pong\bin\Debug\EmptyKeys.UserInterface.dll
+C:\Users\fgsab\Downloads\Pong_30_10_17\Pong\Pong\bin\Debug\EmptyKeys.UserInterface.MonoGame.dll
+C:\Users\fgsab\Downloads\Pong_30_10_17\Pong\Pong\bin\Debug\MonoGame.Framework.dll
+C:\Users\fgsab\Downloads\Pong_30_10_17\Pong\Pong\bin\Debug\EmptyKeys.UserInterface.xml
+C:\Users\fgsab\Downloads\Pong_30_10_17\Pong\Pong\bin\Debug\EmptyKeys.UserInterface.Core.xml
+C:\Users\fgsab\Downloads\Pong_30_10_17\Pong\Pong\bin\Debug\EmptyKeys.UserInterface.Debug.pdb
+C:\Users\fgsab\Downloads\Pong_30_10_17\Pong\Pong\obj\x86\Debug\Pong.csprojResolveAssemblyReference.cache
+C:\Users\fgsab\Downloads\Pong_30_10_17\Pong\Pong\obj\x86\Debug\Pong.csproj.CoreCompileInputs.cache
+C:\Users\fgsab\Downloads\Pong_30_10_17\Pong\Pong\obj\x86\Debug\Pong.exe
+C:\Users\fgsab\Downloads\Pong_30_10_17\Pong\Pong\obj\x86\Debug\Pong.pdb

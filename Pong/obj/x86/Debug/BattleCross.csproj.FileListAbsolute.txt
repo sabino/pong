@@ -1,0 +1,127 @@
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/bin/Debug/x64/libopenal.so.1
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/bin/Debug/x64/soft_oal.dll
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/bin/Debug/x64/libSDL2-2.0.so.0
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/bin/Debug/x64/SDL2.dll
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/bin/Debug/x86/libopenal.so.1
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/bin/Debug/x86/soft_oal.dll
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/bin/Debug/x86/libSDL2-2.0.so.0
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/bin/Debug/x86/SDL2.dll
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/bin/Debug/libopenal.1.dylib
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/bin/Debug/libSDL2-2.0.0.dylib
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/bin/Debug/MonoGame.Framework.dll.config
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/bin/Debug/BattleCross.exe
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/bin/Debug/BattleCross.pdb
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/bin/Debug/MonoGame.Framework.dll
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/bin/Debug/MonoGame.Framework.xml
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/obj/x86/Debug/BattleCross.csprojResolveAssemblyReference.cache
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/obj/x86/Debug/BattleCross.csproj.CoreCompileInputs.cache
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/obj/x86/Debug/BattleCross.exe
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/obj/x86/Debug/BattleCross.pdb
+C:/Users/Guilherme/Downloads/BattleCross/BattleCross/BattleCross/bin/Debug/x64/libopenal.so.1
+C:/Users/Guilherme/Downloads/BattleCross/BattleCross/BattleCross/bin/Debug/x64/soft_oal.dll
+C:/Users/Guilherme/Downloads/BattleCross/BattleCross/BattleCross/bin/Debug/x64/libSDL2-2.0.so.0
+C:/Users/Guilherme/Downloads/BattleCross/BattleCross/BattleCross/bin/Debug/x64/SDL2.dll
+C:/Users/Guilherme/Downloads/BattleCross/BattleCross/BattleCross/bin/Debug/x86/libopenal.so.1
+C:/Users/Guilherme/Downloads/BattleCross/BattleCross/BattleCross/bin/Debug/x86/soft_oal.dll
+C:/Users/Guilherme/Downloads/BattleCross/BattleCross/BattleCross/bin/Debug/x86/libSDL2-2.0.so.0
+C:/Users/Guilherme/Downloads/BattleCross/BattleCross/BattleCross/bin/Debug/x86/SDL2.dll
+C:/Users/Guilherme/Downloads/BattleCross/BattleCross/BattleCross/bin/Debug/libopenal.1.dylib
+C:/Users/Guilherme/Downloads/BattleCross/BattleCross/BattleCross/bin/Debug/libSDL2-2.0.0.dylib
+C:/Users/Guilherme/Downloads/BattleCross/BattleCross/BattleCross/bin/Debug/MonoGame.Framework.dll.config
+C:/Users/Guilherme/Downloads/BattleCross/BattleCross/BattleCross/bin/Debug/BattleCross.exe
+C:/Users/Guilherme/Downloads/BattleCross/BattleCross/BattleCross/bin/Debug/BattleCross.pdb
+C:/Users/Guilherme/Downloads/BattleCross/BattleCross/BattleCross/bin/Debug/MonoGame.Framework.dll
+C:/Users/Guilherme/Downloads/BattleCross/BattleCross/BattleCross/obj/x86/Debug/BattleCross.csprojResolveAssemblyReference.cache
+C:/Users/Guilherme/Downloads/BattleCross/BattleCross/BattleCross/obj/x86/Debug/BattleCross.exe
+C:/Users/Guilherme/Downloads/BattleCross/BattleCross/BattleCross/obj/x86/Debug/BattleCross.pdb
+C:/Users/Guilherme/Downloads/BattleCross/BattleCross/BattleCross/bin/Debug/EmptyKeys.UserInterface.Core.dll
+C:/Users/Guilherme/Downloads/BattleCross/BattleCross/BattleCross/bin/Debug/EmptyKeys.UserInterface.Debug.dll
+C:/Users/Guilherme/Downloads/BattleCross/BattleCross/BattleCross/bin/Debug/EmptyKeys.UserInterface.dll
+C:/Users/Guilherme/Downloads/BattleCross/BattleCross/BattleCross/bin/Debug/EmptyKeys.UserInterface.MonoGame.dll
+C:/Users/Guilherme/Downloads/BattleCross/BattleCross/BattleCross/bin/Debug/EmptyKeys.UserInterface.xml
+C:/Users/Guilherme/Downloads/BattleCross/BattleCross/BattleCross/bin/Debug/EmptyKeys.UserInterface.Core.xml
+C:/Users/Guilherme/Downloads/BattleCross/BattleCross/BattleCross/bin/Debug/EmptyKeys.UserInterface.Debug.pdb
+C:/Users/Guilherme/Downloads/BattleCross/BattleCross/BattleCross/obj/x86/Debug/BattleCross.csproj.CoreCompileInputs.cache
+/Users/guilherme/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/x64/libopenal.so.1
+/Users/guilherme/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/x64/soft_oal.dll
+/Users/guilherme/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/x64/libSDL2-2.0.so.0
+/Users/guilherme/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/x64/SDL2.dll
+/Users/guilherme/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/x86/libopenal.so.1
+/Users/guilherme/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/x86/soft_oal.dll
+/Users/guilherme/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/x86/libSDL2-2.0.so.0
+/Users/guilherme/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/x86/SDL2.dll
+/Users/guilherme/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/libopenal.1.dylib
+/Users/guilherme/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/libSDL2-2.0.0.dylib
+/Users/guilherme/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/MonoGame.Framework.dll.config
+/Users/guilherme/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/BattleCross.exe
+/Users/guilherme/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/BattleCross.pdb
+/Users/guilherme/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/EmptyKeys.UserInterface.Core.dll
+/Users/guilherme/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/EmptyKeys.UserInterface.Debug.dll
+/Users/guilherme/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/EmptyKeys.UserInterface.dll
+/Users/guilherme/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/EmptyKeys.UserInterface.MonoGame.dll
+/Users/guilherme/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/MonoGame.Framework.dll
+/Users/guilherme/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/EmptyKeys.UserInterface.xml
+/Users/guilherme/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/EmptyKeys.UserInterface.Core.xml
+/Users/guilherme/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/EmptyKeys.UserInterface.Debug.pdb
+/Users/guilherme/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/MonoGame.Framework.xml
+/Users/guilherme/Desktop/BattleCross/BattleCross/BattleCross/obj/x86/Debug/BattleCross.csprojResolveAssemblyReference.cache
+/Users/guilherme/Desktop/BattleCross/BattleCross/BattleCross/obj/x86/Debug/BattleCross.csproj.CoreCompileInputs.cache
+/Users/guilherme/Desktop/BattleCross/BattleCross/BattleCross/obj/x86/Debug/BattleCross.exe
+/Users/guilherme/Desktop/BattleCross/BattleCross/BattleCross/obj/x86/Debug/BattleCross.pdb
+/Users/guilherme/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/Content/Ball.xnb
+/Users/guilherme/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/Content/PongPaddle.xnb
+//Mac/Home/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/x64/libopenal.so.1
+//Mac/Home/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/x64/soft_oal.dll
+//Mac/Home/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/x64/libSDL2-2.0.so.0
+//Mac/Home/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/x64/SDL2.dll
+//Mac/Home/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/x86/libopenal.so.1
+//Mac/Home/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/x86/soft_oal.dll
+//Mac/Home/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/x86/libSDL2-2.0.so.0
+//Mac/Home/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/x86/SDL2.dll
+//Mac/Home/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/libopenal.1.dylib
+//Mac/Home/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/libSDL2-2.0.0.dylib
+//Mac/Home/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/MonoGame.Framework.dll.config
+//Mac/Home/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/Content/Ball.xnb
+//Mac/Home/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/Content/PongPaddle.xnb
+//Mac/Home/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/BattleCross.exe
+//Mac/Home/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/BattleCross.pdb
+//Mac/Home/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/EmptyKeys.UserInterface.Core.dll
+//Mac/Home/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/EmptyKeys.UserInterface.Debug.dll
+//Mac/Home/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/EmptyKeys.UserInterface.dll
+//Mac/Home/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/EmptyKeys.UserInterface.MonoGame.dll
+//Mac/Home/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/MonoGame.Framework.dll
+//Mac/Home/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/EmptyKeys.UserInterface.xml
+//Mac/Home/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/EmptyKeys.UserInterface.Core.xml
+//Mac/Home/Desktop/BattleCross/BattleCross/BattleCross/bin/Debug/EmptyKeys.UserInterface.Debug.pdb
+//Mac/Home/Desktop/BattleCross/BattleCross/BattleCross/obj/x86/Debug/BattleCross.csproj.CoreCompileInputs.cache
+//Mac/Home/Desktop/BattleCross/BattleCross/BattleCross/obj/x86/Debug/BattleCross.exe
+//Mac/Home/Desktop/BattleCross/BattleCross/BattleCross/obj/x86/Debug/BattleCross.pdb
+//Mac/Home/Desktop/BattleCross/BattleCross/BattleCross/obj/x86/Debug/BattleCross.csprojResolveAssemblyReference.cache
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/BattleCross/bin/Debug/x64/libopenal.so.1
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/BattleCross/bin/Debug/x64/soft_oal.dll
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/BattleCross/bin/Debug/x64/libSDL2-2.0.so.0
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/BattleCross/bin/Debug/x64/SDL2.dll
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/BattleCross/bin/Debug/x86/libopenal.so.1
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/BattleCross/bin/Debug/x86/soft_oal.dll
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/BattleCross/bin/Debug/x86/libSDL2-2.0.so.0
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/BattleCross/bin/Debug/x86/SDL2.dll
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/BattleCross/bin/Debug/libopenal.1.dylib
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/BattleCross/bin/Debug/libSDL2-2.0.0.dylib
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/BattleCross/bin/Debug/MonoGame.Framework.dll.config
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/BattleCross/bin/Debug/Content/Ball.xnb
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/BattleCross/bin/Debug/Content/PongPaddle.xnb
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/BattleCross/bin/Debug/BattleCross.exe
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/BattleCross/bin/Debug/BattleCross.pdb
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/BattleCross/bin/Debug/EmptyKeys.UserInterface.Core.dll
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/BattleCross/bin/Debug/EmptyKeys.UserInterface.Debug.dll
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/BattleCross/bin/Debug/EmptyKeys.UserInterface.dll
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/BattleCross/bin/Debug/EmptyKeys.UserInterface.MonoGame.dll
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/BattleCross/bin/Debug/MonoGame.Framework.dll
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/BattleCross/bin/Debug/EmptyKeys.UserInterface.xml
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/BattleCross/bin/Debug/EmptyKeys.UserInterface.Core.xml
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/BattleCross/bin/Debug/EmptyKeys.UserInterface.Debug.pdb
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/BattleCross/bin/Debug/MonoGame.Framework.xml
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/BattleCross/obj/x86/Debug/BattleCross.csprojResolveAssemblyReference.cache
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/BattleCross/obj/x86/Debug/BattleCross.csproj.CoreCompileInputs.cache
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/BattleCross/obj/x86/Debug/BattleCross.exe
+/Users/guilherme/Google Drive/DOCÊNCIA/Sociesc/2017/2017-2/2017-2 - TJG - Lógica de programação/Codigos/BattleCross/BattleCross/BattleCross/obj/x86/Debug/BattleCross.pdb

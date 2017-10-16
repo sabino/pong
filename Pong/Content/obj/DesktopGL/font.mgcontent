@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/fgsab/Downloads/Pong_30_10_17/Pong/Pong/Content/font.spritefont</SourceFile>
+  <SourceTime>2017-08-30T09:01:02-03:00</SourceTime>
+  <DestFile>C:/Users/fgsab/Downloads/Pong_30_10_17/Pong/Pong/Content/bin/DesktopGL/font.xnb</DestFile>
+  <DestTime>2017-10-15T16:49:18.0010256-02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T12:05:36-03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T12:05:36-03:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
