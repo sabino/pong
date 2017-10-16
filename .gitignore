@@ -5,6 +5,8 @@
 /[Bb]uilds/
 /Assets/AssetStoreTools*
 
+/Pong/bin/*
+
 # Visual Studio 2015 cache directory
 /.vs/
 
